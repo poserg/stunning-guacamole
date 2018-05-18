@@ -176,14 +176,14 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-    (master_doc, 'index.tex', u'Документация',
-     u'Sergey Popov', 'howto'),
-]
+#latex_documents = [
+#    (master_doc, 'index.tex', u'Документация',
+#     u'Sergey Popov', 'howto'),
+#]
 
 # latex_logo = 'image/logo_rus_horizontal_with_descriptor_tb.png'
-latex_show_pagerefs = False # Включает отображение номеров страниц после ссылок.
-latex_show_urls = 'no' # Отображение url. 'no', 'footnote', 'inline'
+# latex_show_pagerefs = False # Включает отображение номеров страниц после ссылок.
+# latex_show_urls = 'no' # Отображение url. 'no', 'footnote', 'inline'
 # latex_additional_files = ['preamble.tex']
 # latex_appendices = ['main.tex']
 
