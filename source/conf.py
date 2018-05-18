@@ -181,7 +181,7 @@ latex_documents = [
      u'Sergey Popov', 'howto'),
 ]
 
-latex_logo = 'image/logo_rus_horizontal_with_descriptor_tb.png'
+# latex_logo = 'image/logo_rus_horizontal_with_descriptor_tb.png'
 latex_show_pagerefs = False # Включает отображение номеров страниц после ссылок.
 latex_show_urls = 'no' # Отображение url. 'no', 'footnote', 'inline'
 # latex_additional_files = ['preamble.tex']
